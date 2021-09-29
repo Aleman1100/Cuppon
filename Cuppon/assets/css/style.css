@@ -1,0 +1,132 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #28A745;
+    margin-bottom: 18px;
+    height: 62px;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+    background-color: #28A745;
+    color: #fff;
+}
+
+.cuppon-logo {
+    width: 86px;
+    height: 25px;
+}
+
+.col-12 {
+    padding-right: 21px;
+    padding-left: 21px;
+    margin-bottom: 30px;
+}
+
+.cuppon-card {
+    width: 278px;
+}
+
+.card-img-top {
+    width: 277px;
+    height: 180px;
+    margin-bottom: 14px;
+}
+
+h5 {
+    font-size: 20px;
+    line-height: 24px;
+    color:#212529;
+    margin-left: 16px;
+    margin-bottom: 11px;
+    height: 73px;
+    width: 261px;
+}
+
+.cuppon-6 {
+    white-space: pre;
+}
+
+.cuppon-oferta {
+    font-size: 20px;
+}
+
+.cuppon-proveedor {
+    margin-left: 16px;
+    margin-bottom: 2px;
+}
+
+.cuppon-direccion, .cuppon-precio, .cuppon-oferta {
+    display: inline-block;
+}
+
+.cuppon-proveedor, .cuppon-precio, .form-control {
+    font-size: 16px;
+    color:#707070;
+}
+
+.cuppon-direccion {
+    font-size: 13px;
+    color:#707070;
+    margin-bottom: 10px;
+    height: 15px;
+    margin-right: 4px;
+}
+
+.fa-map-marker-alt {
+    color:#707070;
+    margin-left: 16px;
+}
+
+hr {
+    width: 246px;
+    margin: 0px 16px;
+    color: #707070A0;
+}
+
+.formulario {
+    background-color:#28A745;
+    margin-bottom: 24px;
+}
+
+h4 {
+    color: #fff;
+    padding-top: 25px;
+}
+
+.btn, .btn-secondary {
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+    color: #212529;
+    width: 113px;
+    height: 40px;
+    margin-bottom: 29px;
+}
+
+.cuppon-oferta {
+    color: #28A745;
+    margin: 14px 23px 15px 11px;
+}
+
+.icono-mapa {
+    margin-right: 4px;
+
+}
+
+.d-latam {
+    margin-bottom: 27px;
+}
+
+.logo-footer {
+    margin: 0px 119px 10px;
+}
+
+.texto-footer {
+    font-size: 16px;
+    color: #707070;
+    line-height: 19px;
+    margin: 0px 21px 22px;
+}
